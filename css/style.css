@@ -16,9 +16,34 @@
 .heading{
     color: #000;
     font-family: "Times New Roman", Times, serif;
+    background-color: rgb(255, 11, 11);
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 160px;
+    padding-left:290px ;
+    font-size: x-large;
+    font-style:bold;
+    border-color: #c71d1d;
+    /*border-radius: 20px;*/
+    
+
 }
 .para{
     color: rgb(104,31,151);     /*declaration block */
     font-family: "Poppins", sans-serif;
+    background-color: #000;
+    margin: 10px;
 
+}
+.btn{
+  border: #000;
+  border-radius: 2px;
+  border-color: #000;
+  width: 60px;
+  box-shadow: black;
+  color: #7f03fc;
+  background-color:greenyellow;
+  margin-left: 480px;
+  margin-top: 20px;
+  
 }
